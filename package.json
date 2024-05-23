@@ -1,5 +1,6 @@
 {
   "author": "Appsweet.co",
+  "description": "A collection of TypeScript enums for working with HTTP Status Codes",
   "homepage": "https://github.com/appsweet-co/http-status-codes",
   "name": "@appsweet-co/http-status-codes",
   "private": false,
