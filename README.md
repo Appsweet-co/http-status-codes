@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/dperuo/de85df162f515f2deca150c37d31c4f3/raw/logo.svg" alt="Logo" width="150" height="auto" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Eo_circle_green_checkmark.svg" alt="Logo" width="200" height="auto" />
 </p>
 
 <h1 align="center">@appsweet-co/http-status-codes</h1>
