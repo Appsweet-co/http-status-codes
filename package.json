@@ -1,0 +1,11 @@
+{
+  "author": "Appsweet.co",
+  "homepage": "https://github.com/appsweet-co/http-status-codes",
+  "name": "@appsweet-co/http-status-codes",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appsweet-co/http-status-codes"
+  },
+  "version": "0.1.0"
+}
