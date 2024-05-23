@@ -2,6 +2,7 @@
   "author": "Appsweet.co",
   "description": "A collection of TypeScript enums for working with HTTP Status Codes",
   "homepage": "https://github.com/appsweet-co/http-status-codes",
+  "main": "./index.ts",
   "name": "@appsweet-co/http-status-codes",
   "private": false,
   "repository": {
